@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">I'm Parth Chilwerwar <br>- 🔭 I’m working as a simple Developer<br>- 📚 I'm currently learning LLM , Long chain and Full Stack<br>- ⚡ In my free time I Usually Play games</p>
+<p align="left">I'm Parth Chilwerwar <br>- 🔭 I’m working as a simple Developer<br>- 📚 I'm currently learning LLM , Langchain and Full Stack<br>- ⚡ In my free time I Usually Play games</p>
 
 ###
 
