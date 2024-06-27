@@ -12,7 +12,7 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">Hey there 👋</h1>
 
 ###
 
@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">I'm Parth Chilwerwar <br>- 🔭 I’m working as a simple Developer<br>- 📚 I'm currently learning LLM , Langchain and Full Stack<br>- ⚡ In my free time I Usually Play games</p>
+<p align="left">I'm Parth Chilwerwar <br>- 🔭 I’m working as a simple Developer<br>- 📚 I'm currently learning LLM , Langchain and Full Stack<br>- ⚡ In my free time I Usually learn and gain knowledge from various source </p>
 
 ###
 
