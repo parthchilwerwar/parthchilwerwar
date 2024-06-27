@@ -50,4 +50,6 @@
 
 <h3 align="left">🔥   My Stats :</h3>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=parthchilwerwar&show_icons=true&locale=en" alt="parthchilwerwar" /></p>
+
 ###
