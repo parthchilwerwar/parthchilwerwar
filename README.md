@@ -10,6 +10,6 @@ building modern web applications.
 
 <br>
 
-~ [linkedin](https://www.linkedin.com/in/parth-chilwerwar-0b8648207/)  ~
+~ [X](https://x.com/sukipro1v)  ~
 
 </div>
